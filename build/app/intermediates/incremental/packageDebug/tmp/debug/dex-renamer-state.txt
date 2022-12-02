@@ -1,0 +1,7 @@
+#Sat Nov 12 12:39:21 BDT 2022
+base.1=H\:\\aman flutter from youtube\\Covid-19-Tracker-App\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=H\:\\aman flutter from youtube\\Covid-19-Tracker-App\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
